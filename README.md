@@ -43,7 +43,7 @@ AWS Serverless Feedback & Contact Form is a cloud-native, fully serverless appli
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](images/Feedback Architecture.png)
+![Architecture Diagram](images/Architecture.png)
 
 
 ## ☁️ AWS Services
